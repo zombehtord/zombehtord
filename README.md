@@ -1,4 +1,4 @@
-<p align="center"> 󠀠 ⠀ ${{\color{#eb0000}\texttt{I'M UNSTOPPABLE !}}}$
+<p align="center"> 󠀠${{\color{#eb0000}\texttt{I'M UNSTOPPABLE !}}}$
 
 <p align="center"> <a href="https://zombehtord.atabook.org/">atabook</a> 󠀠 ⠀ <a href="https://zombietord.straw.page">strawpage</a> 󠀠 ⠀ <a href="https://pronouns.cc/@TORD">pronouns</a>
 
